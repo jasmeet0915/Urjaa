@@ -11,4 +11,7 @@ and it will switch on the motor and the LEDs. If the person exits from the room 
 will be triggered first and then the first infrared sensor will be triggered and everything will be switched off.
 
 It also takes a record of the number of people in the room so it will nbot turn off the appliances until the number becomes 0.
+<br><br>
+Youtube link: https://www.youtube.com/watch?v=bIMr5IV9O_Y<br>
+Instructables link: https://www.instructables.com/id/URJAA-THE-ENERGY-SAVING-DEVICE/
 
